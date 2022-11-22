@@ -5,3 +5,10 @@ h1{
     background-color: blue;
     color:white;
 }
+table {
+    border: 10px solid coral;
+    
+}
+table td {
+    background-color: burlywood;
+}
